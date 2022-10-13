@@ -1,0 +1,17 @@
+.tab button {
+  background-color: black;
+  border: none;
+  color: red;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.tab p {
+  padding: 15px;
+  display: none;
+}
+
+.tab p.active {
+  display: block;
+}
+/*# sourceMappingURL=style.css.map */
